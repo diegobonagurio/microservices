@@ -1,3 +1,9 @@
+<h3>Microservices</h3>
+
+## Description
+
+A small part of the project with just the notifications service.
+
 ## Installation
 
 ```bash
